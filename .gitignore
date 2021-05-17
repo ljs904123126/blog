@@ -1,0 +1,6 @@
+.history
+node_modules
+public
+db.json
+ljs.tar.gz
+package-lock.json
