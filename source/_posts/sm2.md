@@ -1,3 +1,11 @@
+---
+title: SuperMemo2(SM-2) 算法
+date: 2021-05-17 17:17:19
+tags: docker
+category: linux
+---
+
+
 # SuperMemo2
 
 
